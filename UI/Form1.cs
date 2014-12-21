@@ -18,5 +18,18 @@ namespace pexeso.UI
         {
             InitializeComponent();
         }
+
+        private void HerniPoleInit(){
+            for (int i=0; i<4; i++)
+            {
+                for (int j=0; j<4; j++)
+                {
+                    tableLayoutPanel1.Controls.Add(new PictureBox() { Image = game.Bars.ElementAt(0).Card.Picture }, i, j);
+                }
+            }
+        }
+
+
+        
     }
 }

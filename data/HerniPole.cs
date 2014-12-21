@@ -8,9 +8,9 @@ namespace pexeso.data
 {
     class HerniPole
     {
-        public int BarID { get; set; }
+        public string BarID { get; set; }
         public Karticka Card { get; set; }
-
+        
         public HerniPole() { }
     }
 }

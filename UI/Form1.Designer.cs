@@ -67,6 +67,7 @@
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
             this.tableLayoutPanel1.Size = new System.Drawing.Size(275, 275);
             this.tableLayoutPanel1.TabIndex = 13;
+         
             // 
             // labelPokus
             // 

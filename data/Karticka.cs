@@ -9,8 +9,9 @@ namespace pexeso.data
     class Karticka
     {
         public string CardName { get; set; }
-        public Boolean Selected { get; set; }
-        public System.Drawing.Bitmap Picture { get; set;}
+        public bool Selected { get; set; }
+        public System.Drawing.Image Picture { get; set;}
+        public int Count { get; set;}
 
         public Karticka  () { }
     }
