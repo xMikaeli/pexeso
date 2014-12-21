@@ -1,0 +1,10 @@
+c:\users\michal\documents\visual studio 2012\Projects\pexeso\pexeso\bin\Debug\pexeso.exe.config
+c:\users\michal\documents\visual studio 2012\Projects\pexeso\pexeso\obj\Debug\pexeso.csprojResolveAssemblyReference.cache
+c:\users\michal\documents\visual studio 2012\Projects\pexeso\pexeso\obj\Debug\pexeso.Form1.resources
+c:\users\michal\documents\visual studio 2012\Projects\pexeso\pexeso\obj\Debug\pexeso.Properties.Resources.resources
+c:\users\michal\documents\visual studio 2012\Projects\pexeso\pexeso\obj\Debug\pexeso.csproj.GenerateResource.Cache
+c:\users\michal\documents\visual studio 2012\Projects\pexeso\pexeso\bin\Debug\pexeso.exe
+c:\users\michal\documents\visual studio 2012\Projects\pexeso\pexeso\bin\Debug\pexeso.pdb
+c:\users\michal\documents\visual studio 2012\Projects\pexeso\pexeso\obj\Debug\pexeso.exe
+c:\users\michal\documents\visual studio 2012\Projects\pexeso\pexeso\obj\Debug\pexeso.pdb
+C:\Users\Michal\Documents\Visual Studio 2012\Projects\pexeso\pexeso\obj\Debug\pexeso.UI.Form1.resources
